@@ -1,0 +1,196 @@
+[
+    {
+        "room_id": "room1",
+        "description": "You find yourself in the cockpit, surrounded by blinking lights and control panels.",
+        "options": [
+            "room2"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room2",
+        "description": "You enter a large chamber with a mysterious statue at its center. The air is thick with an otherworldly energy.",
+        "options": [
+            "room3",
+            "room4"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room3",
+        "description": "The mess hall is bustling with activity. Tables are filled with crew members enjoying their meals and sharing stories.",
+        "options": [
+            "room5"
+        ],
+        "odd_even_trigger": true,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room4",
+        "description": "Stepping into the engine room, you're met with a symphony of machinery. The rhythmic hum of engines fills the air.",
+        "options": [
+            "room5"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room5",
+        "description": "The observation deck provides a breathtaking view of the cosmos. Stars and galaxies stretch out before you.",
+        "options": [
+            "room6",
+            "room7"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room6",
+        "description": " Rows of medical equipment line the walls of the med bay. Soft beeping sounds accompany the healing atmosphere.",
+        "options": [
+            "room8",
+            "room9"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room7",
+        "description": "The laboratory is a scientist's haven. Strange experiments and advanced equipment fill every corner.",
+        "options": [
+            "room9",
+            "room10"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room8",
+        "description": "This room is equipped with exercise machines and weights. The air is filled with the scent of sweat and determination.",
+        "options": [
+            "room10",
+            "room11"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room9",
+        "description": "Rows of lush plants thrive under artificial lighting in the botany bay. The soothing greenery provides a sense of calm.",
+        "options": [
+            "room11",
+            "room12"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room10",
+        "description": "A quiet retreat, the library features rows of books and comfortable chairs. The knowledge within beckons you to explore.",
+        "options": [
+            "room12",
+            "room13"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room11",
+        "description": "The cargo hold is stacked with crates and supplies. The room hums with the anticipation of future missions.",
+        "options": [
+            "room13",
+            "room14"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room12",
+        "description": " In the security hub, monitors display feeds from various ship cameras. Vigilance is key in this nerve center.",
+        "options": [
+            "room14",
+            "room15"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room13",
+        "description": "This specialized lab is dedicated to studying celestial phenomena. Advanced telescopes peer into the mysteries of space",
+        "options": [
+            "room15",
+            "room16"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room14",
+        "description": "Waste management and resource recycling are the focus of this room. Machines whir as they repurpose materials.",
+        "options": [
+            "room16",
+            "room17"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room15",
+        "description": "A row of sleeping pods lines one wall. Crew members rest within, recharging for their next tasks.",
+        "options": [
+            "room17",
+            "room18"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room16",
+        "description": "Entering the VR chamber, you're transported to imaginary worlds. Your senses come alive in a realm of virtual wonder.",
+        "options": [
+            "room18",
+            "room19"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room17",
+        "description": " The navigation hub houses advanced systems for charting the course through the cosmos. Star maps adorn the walls",
+        "options": [
+            "room19",
+            "room20"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room18",
+        "description": " Crew members communicate with mission control and other ships from this bustling hub. Signals of exploration fill the air.",
+        "options": [
+            "room20"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room19",
+        "description": "The escape pods are small, but vital. Each pod is equipped with life support systems, ready to launch in times of need.",
+        "options": [
+            "room20"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    },
+    {
+        "room_id": "room20",
+        "description": "Your journey ends as you step onto the surface of an unknown planet. The possibilities for discovery stretch before you.",
+        "options": [
+            "Exit"
+        ],
+        "odd_even_trigger": false,
+        "weather_city_trigger": NaN
+    }
+]
